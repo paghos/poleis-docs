@@ -1,0 +1,24 @@
+site_name: Documentation - poleis.cloud
+theme:
+  name: material
+  logo: assets/logo.png
+  font:
+    text: Nunito
+    code: Roboto Mono
+  features:
+    - navigation.footer
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.path
+extra_css:
+  - stylesheets/extra.css
+copyright: Copyright &copy; 2024 Simone Pagano
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:hello@poleis.cloud
+    - icon: fontawesome/brands/github
+      link: https://github.com/paghos
