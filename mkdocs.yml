@@ -1,4 +1,5 @@
 site_name: Documentation - poleis.cloud
+site_url: https://docs.poleis.cloud
 theme:
   name: material
   logo: assets/logo.png
